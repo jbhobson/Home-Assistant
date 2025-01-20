@@ -45,7 +45,7 @@ esp8266:
 #
 
 dashboard_import:
-  package_import_url: github://roving-ronin/myhomeassistant/esphome/athom-smart-plug-v2.yaml@main
+  package_import_url: github://roving-ronin/myhomeassistant/esphome/athom-smart-plug-v2.yaml@dentra
   import_full_config: false
 
 packages:
