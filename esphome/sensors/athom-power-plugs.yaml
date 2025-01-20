@@ -63,8 +63,10 @@ external_components:
 #    refresh: 0s
   - source:
       type: git
-      url: https://github.com/roving-ronin/myhomeassistant/
-      ref: development
+#      url: https://github.com/roving-ronin/myhomeassistant/
+#      ref: main
+      url: https://github.com/dentra/esphome-components/
+      ref: master
     refresh: 0s
     components: [ energy_statistics ]
 
