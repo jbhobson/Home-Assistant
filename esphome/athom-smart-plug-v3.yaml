@@ -55,7 +55,7 @@ esphome:
 #
 
 dashboard_import:
-  package_import_url: github://roving-ronin/myhomeassistant/esphome/athom-smart-plug-v3.yaml@development
+  package_import_url: github://roving-ronin/myhomeassistant/esphome/athom-smart-plug-v3.yaml@dentra
   import_full_config: false
 
 packages:
