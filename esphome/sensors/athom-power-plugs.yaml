@@ -61,7 +61,7 @@ esphome:
 external_components:
   - source:
       type: git
-      url: https://github.com/dentra/esphome-components/
+      url: https://github.com/roving-ronin/esphome-components
       ref: master
     refresh: 0s
     components: [ energy_statistics ]
